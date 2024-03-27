@@ -1,0 +1,1 @@
+# This is my first JS mini Project 'A Simple Calculator' which I've created using HTML CSS JAVASCRIPT.
