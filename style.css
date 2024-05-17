@@ -25,22 +25,20 @@
     background-color: black;
     border-radius: 20px;
     box-shadow: 0px 0px 15px rgb(19, 18, 18);
-    /* margin: auto; */
-    /* margin-top: 100px; */
-    /* border: 2px solid white; */
+ 
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    /* align-items: center; */
+  
 }
 #top{
    
     width: 300px;
     height: 170px;
-    /* border: 2px solid red; */
+    
     display: flex;
     align-items: center;
-    /* background-color: white; */
+    
 }
 #input{
    
@@ -67,16 +65,14 @@
     flex-direction: column;
     justify-content: end;
     align-items: center;
-    /* row-gap: 2rem; */
-    /* padding: 10px; */
-    /* border: 2px solid red; */
+    
 }
 button{
     cursor: pointer;
     width: 50px;
     height: 50px;
     border: none;
-    /* height: 40px; */
+  
     border-radius: 50px;
     font-size: 1.5rem;
     padding: 5px 10px;
