@@ -97,3 +97,15 @@ button{
 #minus,#plus, #x, #divide, #equal{
     background-color: orange;
 }
+
+@media only screen and (max-width : 414px){
+    .container{
+        height: 100%;
+        width: 100vw;
+
+    }
+    .clac{
+        height: 100%;
+        width: 100vw;
+    }
+}
